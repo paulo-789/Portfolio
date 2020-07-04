@@ -111,7 +111,7 @@ a:hover{
      */
 }
  .inner h1{
-    padding-top: 20px;
+    padding-top: 10px;
     text-align: center;
 } */
 .header{
@@ -137,7 +137,7 @@ a:hover{
     text-align: center;
     grid-gap: 1rem;
     padding:  80px;
-    top: 50%;
+    top: 30%;
     font-size: 1.2rem;
 }
 .skill-box{
